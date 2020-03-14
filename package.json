@@ -1,12 +1,4 @@
 {
-  "compilerOptions": {
-    "outDir": "./dist/",
-    "noImplicitAny": true,
-    "module": "es6",
-    "target": "es5",
-    "jsx": "react",
-    "allowJs": true
-  },
   "scripts": {
     "build": "webpack --mode=production",
     "dev": "webpack-dev-server --mode=development --open"
