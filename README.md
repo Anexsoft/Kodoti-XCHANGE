@@ -2,7 +2,7 @@
 Este proyecto ha sido creado para el curso de KODOTI y nos permite generar un componente para visualizar
 el tipo de cambio del dolar americano de algunos paises.
 
-Si quieres aprender sobre TypeScript participa de nuestro curso en el siguiente enlace.
+Si quieres aprender sobre TypeScript participa de nuestro curso en el siguiente enlace:
 
 [https://kodoti.com/cursos/typescript-desde-cero](https://kodoti.com/cursos/typescript-desde-cero)
 
@@ -16,6 +16,8 @@ Basicamente para integrar webpack necesitamos los siguientes paquetes adicionale
 * webpack
 * webpack-cli
 * webpack-dev-server
+
+La ventaja de usar el servidor local de webpack es que permite refrescar los cambios que hagamos automáticamente en un servidor local evitando de esta manera tener que hacer build ante cada cambio.
 
 ## Servidor local de desarrollo
 Posicionarse desde la consola en la ruta del proyecto y ejecutar el comando `npm run dev`.
