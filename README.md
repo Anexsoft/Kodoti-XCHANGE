@@ -19,6 +19,11 @@ Basicamente para integrar webpack necesitamos los siguientes paquetes adicionale
 
 La ventaja de usar el servidor local de webpack es que permite refrescar los cambios que hagamos automáticamente en un servidor local evitando de esta manera tener que hacer build ante cada cambio.
 
+## ¿Cómo levanto el proyecto?
+1. Clonar el repositorio
+2. Posicionarse desde al consola en la carpeta del proyecto e instalar los paquetes a través del comando `npm install`.
+3. Elegir el modo a trabajar si será desarrollo o producción que se explicará a continuación.
+
 ## Servidor local de desarrollo
 Posicionarse desde la consola en la ruta del proyecto y ejecutar el comando `npm run dev`.
 
