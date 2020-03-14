@@ -1,6 +1,5 @@
 import { Currency } from "../models/Currency";
 import { Country } from "../models/Country";
-import { ChangeBehavior } from "../models/ChangeBehavior";
 
 export class CurrencyService {
     constructor(public sourceUrl: string) { }
